@@ -2,7 +2,7 @@
 
 ## Scope
 
-This repository contains the public iPhoto2 website, the FoodPhotos privacy policy, and the FoodPhotos support page.
+This repository contains the public home for the iPhoto2 photo-product family, plus shared privacy and support pages. FoodPhotos is the first iPhoto2 product.
 
 ## File Contract
 
@@ -30,10 +30,12 @@ Do not add generated assets, package manifests, lockfiles, build output, JavaScr
 
 ## Content Rules
 
-- Use `iPhoto2` as the organization name and `FoodPhotos` as the app name.
+- Use `iPhoto2` as the product-family name and `FoodPhotos` as the first product name.
+- Keep one shared privacy policy and one shared support page for all iPhoto2 products.
+- Add future products to the home page and the relevant support section. Do not create separate privacy or support pages.
+- Require every iPhoto2 product to follow the shared privacy model: on-device processing, no iPhoto2 account, and no personal photo content or analysis results sent to iPhoto2.
 - Do not claim that FoodPhotos uploads, copies, edits, caches, or deletes original photos.
-- State that photo analysis runs on the device with Apple frameworks.
-- State that location is used only for map presentation and not for classification.
+- State that FoodPhotos location access is used only for map presentation and not for classification.
 - Do not promise recognition accuracy or production readiness.
 - Confirm that `support@iphoto2.com` is operational before production deployment.
 

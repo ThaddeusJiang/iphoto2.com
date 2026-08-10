@@ -1,13 +1,17 @@
 # iPhoto2
 
-The public website, FoodPhotos privacy policy, and FoodPhotos support page for `iphoto2.com`.
+The public home for the iPhoto2 photo-product family, with one shared privacy policy and one shared support center. FoodPhotos is the first iPhoto2 product.
 
 ## Files
 
-- `index.html`: iPhoto2 home page
-- `privacy.html`: FoodPhotos privacy policy
-- `support.html`: FoodPhotos support and troubleshooting
+- `index.html`: iPhoto2 product-family home page
+- `privacy.html`: shared privacy policy for every iPhoto2 product
+- `support.html`: shared product support, with current FoodPhotos troubleshooting
 - `AGENTS.md`: repository maintenance rules
+
+## Product Model
+
+New products are added to the home page and to the relevant section of the shared support page. Every product uses the same privacy and support URLs.
 
 ## Technology
 
